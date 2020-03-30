@@ -6,7 +6,7 @@ rem ### 出力するファイル名を設定する
 set OutputFile=★ALLTTL.bat
 
 rem ### 無視する.ttlファイルを設定する
-set IgnoreFile=00_CreateFolder.ttl
+set IgnoreFile=ignored.ttl
 
 rem ### 各.ttlファイルを実行するまでの遅延時間の設定するプロンプト
 set /p INPUTSTR="Set delay time in second： "
