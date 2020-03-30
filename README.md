@@ -5,8 +5,8 @@
 
 ```bat
 rem ### 出力するファイル名を設定する
-set OutputFile=★ALLTTL.bat
+set OutputFile=_ALLTTL.bat
 
 rem ### 無視する.ttlファイルを設定する
-set IgnoreFile=ignored.ttl
+set IgnoreFile=_ignored.ttl
 ```
